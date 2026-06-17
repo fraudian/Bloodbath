@@ -25,9 +25,9 @@
 
 | Percent | Attempts |
 |----------|----------|
-| 26%      | x76      |
-| 27%      | x68      |
-| 28%      | x41      |
+| 26%      | x79      |
+| 27%      | x71      |
+| 28%      | x42      |
 | 29%      | x23      |
 | 30%      | x30      |
 | 31%      | x5       |
@@ -36,6 +36,7 @@
 | 34%      | x1       |
 | 35%      | x4       |
 | 36%      | x1       |
+| 37%      | x1       |
 | 38%      | x2       |
 | 40%      | x2       |
 | 41%      | x2       |
@@ -50,4 +51,6 @@
 ## 📌 Notes
 - I will try update this as much as possible, The Percentages might not be 100% accurate because I don't want to update this everytime I get 27% (which is quite often) I will update if I get past 49%
 - [28/05/26] I played on Version 1.9 because of the diference in ship physics and I got 49.62% which is the EXACT percent I got on 2.2 :(
+
+- [17/06/26] Got 37% just now, I guess it proves I'm capable of getting to the Mini Wave Again.
 ---
