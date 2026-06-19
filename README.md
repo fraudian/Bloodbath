@@ -25,26 +25,26 @@
 
 | Percent | Attempts |
 |----------|----------|
-| 26%      | x79      |
-| 27%      | x71      |
-| 28%      | x42      |
-| 29%      | x23      |
-| 30%      | x30      |
-| 31%      | x5       |
-| 32%      | x7       |
-| 33%      | x7       |
+| 26%      | x87      |
+| 27%      | x75      |
+| 28%      | x47      |
+| 29%      | x27      |
+| 30%      | x35      |
+| 31%      | x7       |
+| 32%      | x10      |
+| 33%      | x9       |
 | 34%      | x1       |
 | 35%      | x4       |
 | 36%      | x1       |
-| 37%      | x1       |
+| 37%      | x2       |
 | 38%      | x2       |
 | 40%      | x2       |
 | 41%      | x2       |
-| 43%      | x1       |
-| 44%      | x1       |
+| 43%      | x2       |
+| 44%      | x4       |
 | 45%      | x1       |
 | 46%      | x1       |
-| 49%      | x1       |
+| 49%      | x2       |
 
 ---
 
@@ -53,4 +53,6 @@
 - [28/05/26] I played on Version 1.9 because of the diference in ship physics and I got 49.62% which is the EXACT percent I got on 2.2 :(
 
 - [17/06/26] Got 37% just now, I guess it proves I'm capable of getting to the Mini Wave Again.
+
+-  [19/06/26] Got 49.62% AGAIN :(( 3rd time I've died there, got to 40%+ 6 times today and got consistent at michiguns part which is good, hopefully I don't lose my consistency
 ---
